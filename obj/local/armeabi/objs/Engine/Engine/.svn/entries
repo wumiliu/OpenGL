@@ -1,0 +1,98 @@
+10
+
+dir
+0
+https://github.com/wumiliu/OpenGL/obj/local/armeabi/objs/Engine/Engine
+https://github.com/wumiliu/OpenGL
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72347145-1fa5-9626-75c8-ce57b7db7bff
+
+ScrolRect.o.d
+file
+
+
+
+add
+
+Texture.o.d
+file
+
+
+
+add
+
+glShaderFactory.o.d
+file
+
+
+
+add
+
+GameManager.o.d
+file
+
+
+
+add
+
+p3type.o.d
+file
+
+
+
+add
+
+TextureMgr.o.d
+file
+
+
+
+add
+
+glMeshFactory.o.d
+file
+
+
+
+add
+
+glRenderer.o.d
+file
+
+
+
+add
+
+InputManager.o.d
+file
+
+
+
+add
+
+OpenGLEngine.o.d
+file
+
+
+
+add
+

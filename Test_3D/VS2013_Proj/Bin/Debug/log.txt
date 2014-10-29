@@ -1,0 +1,14 @@
+ERROR: 0:2: 'precision' : syntax error parse error
+ERROR: 0:2: 'precision' : syntax error parse error
+ERROR: 0:2: 'precision' : syntax error parse error
+ERROR: 0:2: 'precision' : syntax error parse error
+ERROR: 0:2: 'precision' : syntax error parse error
+ERROR: 0:2: 'precision' : syntax error parse error
+ERROR: 0:2: 'precision' : syntax error parse error
+ERROR: 0:2: 'precision' : syntax error parse error
+ERROR: 0:2: 'precision' : syntax error parse error
+ERROR: 0:2: 'precision' : syntax error parse error
+ERROR: 0:2: 'precision' : syntax error parse error
+ERROR: 0:5: 'precision' : syntax error parse error
+ERROR: 0:2: 'precision' : syntax error parse error
+ERROR: 0:2: 'precision' : syntax error parse error

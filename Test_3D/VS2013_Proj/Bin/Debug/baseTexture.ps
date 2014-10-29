@@ -1,0 +1,12 @@
+//precision mediump float;
+#define _COLOR gl_FragColor
+uniform sampler2D gTex;
+
+//varying vec4 color;
+varying vec2 uv;
+void main()                                  
+{                                           
+	//gl_FragColor = vec4(colorVarying, 1.0);
+	gl_FragColor = vec4 ( 1.0, 0.0, 0.0, 1.0 );
+	gl_FragColor = texture2D(gTex,uv);
+}

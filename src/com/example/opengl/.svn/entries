@@ -1,0 +1,56 @@
+10
+
+dir
+0
+https://github.com/wumiliu/OpenGL/src/com/example/opengl
+https://github.com/wumiliu/OpenGL
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72347145-1fa5-9626-75c8-ce57b7db7bff
+
+NdkGlRender.java
+file
+
+
+
+add
+
+GL2JNIView.java
+file
+
+
+
+add
+
+MainActivity.java
+file
+
+
+
+add
+
+RelayNative.java
+file
+
+
+
+add
+

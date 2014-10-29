@@ -1,0 +1,868 @@
+10
+
+dir
+0
+https://github.com/wumiliu/OpenGL/jni/Engine/glm/gtx
+https://github.com/wumiliu/OpenGL
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72347145-1fa5-9626-75c8-ce57b7db7bff
+
+color_space.hpp
+file
+
+
+
+add
+
+std_based_type.hpp
+file
+
+
+
+add
+
+vec1.inl
+file
+
+
+
+add
+
+inertia.hpp
+file
+
+
+
+add
+
+vec1.hpp
+file
+
+
+
+add
+
+rotate_normalized_axis.inl
+file
+
+
+
+add
+
+vector_angle.inl
+file
+
+
+
+add
+
+transform.inl
+file
+
+
+
+add
+
+rotate_normalized_axis.hpp
+file
+
+
+
+add
+
+vector_angle.hpp
+file
+
+
+
+add
+
+bit.inl
+file
+
+
+
+add
+
+string_cast.inl
+file
+
+
+
+add
+
+transform.hpp
+file
+
+
+
+add
+
+noise.hpp
+file
+
+
+
+add
+
+raw_data.inl
+file
+
+
+
+add
+
+bit.hpp
+file
+
+
+
+add
+
+random.hpp
+file
+
+
+
+add
+
+string_cast.hpp
+file
+
+
+
+add
+
+raw_data.hpp
+file
+
+
+
+add
+
+vector_query.inl
+file
+
+
+
+add
+
+normal.inl
+file
+
+
+
+add
+
+extented_min_max.inl
+file
+
+
+
+add
+
+matrix_query.inl
+file
+
+
+
+add
+
+spline.inl
+file
+
+
+
+add
+
+multiple.inl
+file
+
+
+
+add
+
+vector_query.hpp
+file
+
+
+
+add
+
+normal.hpp
+file
+
+
+
+add
+
+extented_min_max.hpp
+file
+
+
+
+add
+
+matrix_query.hpp
+file
+
+
+
+add
+
+spline.hpp
+file
+
+
+
+add
+
+multiple.hpp
+file
+
+
+
+add
+
+intersect.inl
+file
+
+
+
+add
+
+intersect.hpp
+file
+
+
+
+add
+
+euler_angles.inl
+file
+
+
+
+add
+
+mixed_product.inl
+file
+
+
+
+add
+
+polar_coordinates.inl
+file
+
+
+
+add
+
+io.inl
+file
+
+
+
+add
+
+wrap.inl
+file
+
+
+
+add
+
+euler_angles.hpp
+file
+
+
+
+add
+
+norm.inl
+file
+
+
+
+add
+
+mixed_product.hpp
+file
+
+
+
+add
+
+polar_coordinates.hpp
+file
+
+
+
+add
+
+io.hpp
+file
+
+
+
+add
+
+orthonormalize.inl
+file
+
+
+
+add
+
+simd_vec4.inl
+file
+
+
+
+add
+
+color_space_YCoCg.inl
+file
+
+
+
+add
+
+wrap.hpp
+file
+
+
+
+add
+
+epsilon.hpp
+file
+
+
+
+add
+
+fast_square_root.inl
+file
+
+
+
+add
+
+norm.hpp
+file
+
+
+
+add
+
+orthonormalize.hpp
+file
+
+
+
+add
+
+color_space_YCoCg.hpp
+file
+
+
+
+add
+
+simd_vec4.hpp
+file
+
+
+
+add
+
+fast_square_root.hpp
+file
+
+
+
+add
+
+transform2.inl
+file
+
+
+
+add
+
+transform2.hpp
+file
+
+
+
+add
+
+fast_exponential.inl
+file
+
+
+
+add
+
+ulp.hpp
+file
+
+
+
+add
+
+fast_exponential.hpp
+file
+
+
+
+add
+
+compatibility.inl
+file
+
+
+
+add
+
+matrix_interpolation.inl
+file
+
+
+
+add
+
+projection.inl
+file
+
+
+
+add
+
+compatibility.hpp
+file
+
+
+
+add
+
+fast_trigonometry.inl
+file
+
+
+
+add
+
+scalar_relational.inl
+file
+
+
+
+add
+
+matrix_interpolation.hpp
+file
+
+
+
+add
+
+rotate_vector.inl
+file
+
+
+
+add
+
+projection.hpp
+file
+
+
+
+add
+
+matrix_transform_2d.inl
+file
+
+
+
+add
+
+scalar_relational.hpp
+file
+
+
+
+add
+
+fast_trigonometry.hpp
+file
+
+
+
+add
+
+rotate_vector.hpp
+file
+
+
+
+add
+
+simd_quat.inl
+file
+
+
+
+add
+
+unsigned_int.inl
+file
+
+
+
+add
+
+extend.inl
+file
+
+
+
+add
+
+gradient_paint.inl
+file
+
+
+
+add
+
+matrix_transform_2d.hpp
+file
+
+
+
+add
+
+component_wise.inl
+file
+
+
+
+add
+
+dual_quaternion.inl
+file
+
+
+
+add
+
+simd_quat.hpp
+file
+
+
+
+add
+
+unsigned_int.hpp
+file
+
+
+
+add
+
+extend.hpp
+file
+
+
+
+add
+
+integer.inl
+file
+
+
+
+add
+
+perpendicular.inl
+file
+
+
+
+add
+
+gradient_paint.hpp
+file
+
+
+
+add
+
+component_wise.hpp
+file
+
+
+
+add
+
+dual_quaternion.hpp
+file
+
+
+
+add
+
+integer.hpp
+file
+
+
+
+add
+
+perpendicular.hpp
+file
+
+
+
+add
+
+number_precision.inl
+file
+
+
+
+add
+
+handed_coordinate_space.inl
+file
+
+
+
+add
+
+normalize_dot.inl
+file
+
+
+
+add
+
+number_precision.hpp
+file
+
+
+
+add
+
+handed_coordinate_space.hpp
+file
+
+
+
+add
+
+int_10_10_10_2.inl
+file
+
+
+
+add
+
+normalize_dot.hpp
+file
+
+
+
+add
+
+log_base.inl
+file
+
+
+
+add
+
+matrix_cross_product.inl
+file
+
+
+
+add
+
+optimum_pow.inl
+file
+
+
+
+add
+
+log_base.hpp
+file
+
+
+
+add
+
+int_10_10_10_2.hpp
+file
+
+
+
+add
+
+matrix_major_storage.inl
+file
+
+
+
+add
+
+constants.hpp
+file
+
+
+
+add
+
+simd_mat4.inl
+file
+
+
+
+add
+
+matrix_cross_product.hpp
+file
+
+
+
+add
+
+matrix_operation.inl
+file
+
+
+
+add
+
+optimum_pow.hpp
+file
+
+
+
+add
+
+closest_point.inl
+file
+
+
+
+add
+
+matrix_major_storage.hpp
+file
+
+
+
+add
+
+quaternion.inl
+file
+
+
+
+add
+
+simd_mat4.hpp
+file
+
+
+
+add
+
+associated_min_max.inl
+file
+
+
+
+add
+
+reciprocal.hpp
+file
+
+
+
+add
+
+matrix_operation.hpp
+file
+
+
+
+add
+
+color_space.inl
+file
+
+
+
+add
+
+std_based_type.inl
+file
+
+
+
+add
+
+closest_point.hpp
+file
+
+
+
+add
+
+quaternion.hpp
+file
+
+
+
+add
+
+inertia.inl
+file
+
+
+
+add
+
+associated_min_max.hpp
+file
+
+
+
+add
+

@@ -1,0 +1,49 @@
+10
+
+dir
+0
+https://github.com/wumiliu/OpenGL/MyOpenGL/Dependencies/include
+https://github.com/wumiliu/OpenGL
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72347145-1fa5-9626-75c8-ce57b7db7bff
+
+glew.h
+file
+
+
+
+add
+
+wglew.h
+file
+
+
+
+add
+
+glxew.h
+file
+
+
+
+add
+

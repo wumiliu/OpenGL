@@ -1,0 +1,595 @@
+10
+
+dir
+0
+https://github.com/wumiliu/OpenGL/jni/Engine/glm/detail
+https://github.com/wumiliu/OpenGL
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72347145-1fa5-9626-75c8-ce57b7db7bff
+
+func_geometric.hpp
+file
+
+
+
+add
+
+type_int.hpp
+file
+
+
+
+add
+
+func_trigonometric.inl
+file
+
+
+
+add
+
+func_trigonometric.hpp
+file
+
+
+
+add
+
+type_vec.inl
+file
+
+
+
+add
+
+type_mat3x2.inl
+file
+
+
+
+add
+
+func_matrix.inl
+file
+
+
+
+add
+
+type_mat3x3.inl
+file
+
+
+
+add
+
+type_mat3x4.inl
+file
+
+
+
+add
+
+_features.hpp
+file
+
+
+
+add
+
+_fixes.hpp
+file
+
+
+
+add
+
+type_vec.hpp
+file
+
+
+
+add
+
+func_matrix.hpp
+file
+
+
+
+add
+
+type_mat3x2.hpp
+file
+
+
+
+add
+
+type_mat3x3.hpp
+file
+
+
+
+add
+
+type_mat3x4.hpp
+file
+
+
+
+add
+
+precision.inl
+file
+
+
+
+add
+
+intrinsic_vector_relational.inl
+file
+
+
+
+add
+
+type_vec1.inl
+file
+
+
+
+add
+
+precision.hpp
+file
+
+
+
+add
+
+type_vec2.inl
+file
+
+
+
+add
+
+func_exponential.inl
+file
+
+
+
+add
+
+type_vec3.inl
+file
+
+
+
+add
+
+type_vec4.inl
+file
+
+
+
+add
+
+func_common.inl
+file
+
+
+
+add
+
+intrinsic_vector_relational.hpp
+file
+
+
+
+add
+
+type_vec1.hpp
+file
+
+
+
+add
+
+type_vec2.hpp
+file
+
+
+
+add
+
+func_exponential.hpp
+file
+
+
+
+add
+
+type_vec3.hpp
+file
+
+
+
+add
+
+type_vec4.hpp
+file
+
+
+
+add
+
+func_common.hpp
+file
+
+
+
+add
+
+intrinsic_exponential.inl
+file
+
+
+
+add
+
+_swizzle.hpp
+file
+
+
+
+add
+
+type_half.inl
+file
+
+
+
+add
+
+intrinsic_exponential.hpp
+file
+
+
+
+add
+
+_vectorize.hpp
+file
+
+
+
+add
+
+type_half.hpp
+file
+
+
+
+add
+
+_literals.hpp
+file
+
+
+
+add
+
+intrinsic_matrix.inl
+file
+
+
+
+add
+
+func_packing.inl
+file
+
+
+
+add
+
+func_noise.inl
+file
+
+
+
+add
+
+intrinsic_matrix.hpp
+file
+
+
+
+add
+
+func_packing.hpp
+file
+
+
+
+add
+
+func_noise.hpp
+file
+
+
+
+add
+
+intrinsic_geometric.inl
+file
+
+
+
+add
+
+intrinsic_geometric.hpp
+file
+
+
+
+add
+
+intrinsic_trigonometric.inl
+file
+
+
+
+add
+
+func_integer.inl
+file
+
+
+
+add
+
+intrinsic_common.inl
+file
+
+
+
+add
+
+type_gentype.inl
+file
+
+
+
+add
+
+intrinsic_trigonometric.hpp
+file
+
+
+
+add
+
+func_integer.hpp
+file
+
+
+
+add
+
+type_mat2x2.inl
+file
+
+
+
+add
+
+type_mat2x3.inl
+file
+
+
+
+add
+
+intrinsic_common.hpp
+file
+
+
+
+add
+
+intrinsic_integer.inl
+file
+
+
+
+add
+
+type_mat2x4.inl
+file
+
+
+
+add
+
+type_mat4x2.inl
+file
+
+
+
+add
+
+_noise.hpp
+file
+
+
+
+add
+
+type_gentype.hpp
+file
+
+
+
+add
+
+type_mat4x3.inl
+file
+
+
+
+add
+
+type_mat.inl
+file
+
+
+
+add
+
+type_mat4x4.inl
+file
+
+
+
+add
+
+type_mat2x2.hpp
+file
+
+
+
+add
+
+type_mat2x3.hpp
+file
+
+
+
+add
+
+intrinsic_integer.hpp
+file
+
+
+
+add
+
+type_mat2x4.hpp
+file
+
+
+
+add
+
+type_mat4x2.hpp
+file
+
+
+
+add
+
+_swizzle_func.hpp
+file
+
+
+
+add
+
+type_mat4x3.hpp
+file
+
+
+
+add
+
+type_mat.hpp
+file
+
+
+
+add
+
+type_mat4x4.hpp
+file
+
+
+
+add
+
+func_vector_relational.inl
+file
+
+
+
+add
+
+dummy.cpp
+file
+
+
+
+add
+
+func_vector_relational.hpp
+file
+
+
+
+add
+
+setup.hpp
+file
+
+
+
+add
+
+hint.hpp
+file
+
+
+
+add
+
+type_float.hpp
+file
+
+
+
+add
+
+glm.cpp
+file
+
+
+
+add
+
+func_geometric.inl
+file
+
+
+
+add
+

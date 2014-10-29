@@ -1,0 +1,217 @@
+10
+
+dir
+0
+https://github.com/wumiliu/OpenGL/jni/Engine/glm/gtc
+https://github.com/wumiliu/OpenGL
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72347145-1fa5-9626-75c8-ce57b7db7bff
+
+matrix_transform.inl
+file
+
+
+
+add
+
+matrix_inverse.inl
+file
+
+
+
+add
+
+ulp.inl
+file
+
+
+
+add
+
+type_precision.hpp
+file
+
+
+
+add
+
+matrix_transform.hpp
+file
+
+
+
+add
+
+matrix_inverse.hpp
+file
+
+
+
+add
+
+ulp.hpp
+file
+
+
+
+add
+
+type_ptr.inl
+file
+
+
+
+add
+
+epsilon.inl
+file
+
+
+
+add
+
+type_ptr.hpp
+file
+
+
+
+add
+
+packing.inl
+file
+
+
+
+add
+
+constants.inl
+file
+
+
+
+add
+
+noise.inl
+file
+
+
+
+add
+
+epsilon.hpp
+file
+
+
+
+add
+
+random.inl
+file
+
+
+
+add
+
+constants.hpp
+file
+
+
+
+add
+
+packing.hpp
+file
+
+
+
+add
+
+noise.hpp
+file
+
+
+
+add
+
+reciprocal.inl
+file
+
+
+
+add
+
+random.hpp
+file
+
+
+
+add
+
+matrix_access.inl
+file
+
+
+
+add
+
+quaternion.inl
+file
+
+
+
+add
+
+matrix_integer.hpp
+file
+
+
+
+add
+
+reciprocal.hpp
+file
+
+
+
+add
+
+matrix_access.hpp
+file
+
+
+
+add
+
+quaternion.hpp
+file
+
+
+
+add
+
+type_precision.inl
+file
+
+
+
+add
+

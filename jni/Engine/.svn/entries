@@ -1,0 +1,210 @@
+10
+
+dir
+0
+https://github.com/wumiliu/OpenGL/jni/Engine
+https://github.com/wumiliu/OpenGL
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72347145-1fa5-9626-75c8-ce57b7db7bff
+
+glm
+dir
+
+
+
+add
+
+glRenderer.h
+file
+
+
+
+add
+
+htype.h
+file
+
+
+
+add
+
+InputManager.h
+file
+
+
+
+add
+
+Texture.cpp
+file
+
+
+
+add
+
+ScrolRect.cpp
+file
+
+
+
+add
+
+GameManager.cpp
+file
+
+
+
+add
+
+ScrolRect.h
+file
+
+
+
+add
+
+Texture.h
+file
+
+
+
+add
+
+TextureMgr.cpp
+file
+
+
+
+add
+
+glMeshFactory.cpp
+file
+
+
+
+add
+
+GameManager.h
+file
+
+
+
+add
+
+glShaderFactory - 副本.cpp
+file
+
+
+
+add
+
+OpenGLEngine.cpp
+file
+
+
+
+add
+
+TextureMgr.h
+file
+
+
+
+add
+
+glMeshFactory.h
+file
+
+
+
+add
+
+OpenGLEngine.h
+file
+
+
+
+add
+
+glEnums.h
+file
+
+
+
+add
+
+glShaderFactory.cpp
+file
+
+
+
+add
+
+p3type.cpp
+file
+
+
+
+add
+
+BaseCode
+dir
+
+
+
+add
+
+glShaderFactory.h
+file
+
+
+
+add
+
+FreeImage.h
+file
+
+
+
+add
+
+glRenderer.cpp
+file
+
+
+
+add
+
+InputManager.cpp
+file
+
+
+
+add
+
+FastDelegate.h
+file
+
+
+
+add
+

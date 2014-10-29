@@ -1,0 +1,154 @@
+10
+
+dir
+0
+https://github.com/wumiliu/OpenGL/Test_3D/Test_3D
+https://github.com/wumiliu/OpenGL
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72347145-1fa5-9626-75c8-ce57b7db7bff
+
+stdafx.h
+file
+
+
+
+add
+
+Test_3DDlg.h
+file
+
+
+
+add
+
+Exe.props
+file
+
+
+
+add
+
+Test_3D.cpp
+file
+
+
+
+add
+
+Test_3D.aps
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+res
+dir
+
+
+
+add
+
+targetver.h
+file
+
+
+
+add
+
+Test_3D.h
+file
+
+
+
+add
+
+Test_3D.vcxproj
+file
+
+
+
+add
+
+Test_3D.vcxproj.filters
+file
+
+
+
+add
+
+Test_3D.rc
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+stdafx.cpp
+file
+
+
+
+add
+
+ReadMe.txt
+file
+
+
+
+add
+
+Test_3D.vcxproj.user
+file
+
+
+
+add
+
+Resource.h
+file
+
+
+
+add
+
+Test_3DDlg.cpp
+file
+
+
+
+add
+

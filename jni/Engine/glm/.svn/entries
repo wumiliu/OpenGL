@@ -1,0 +1,231 @@
+10
+
+dir
+0
+https://github.com/wumiliu/OpenGL/jni/Engine/glm
+https://github.com/wumiliu/OpenGL
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72347145-1fa5-9626-75c8-ce57b7db7bff
+
+integer.hpp
+file
+
+
+
+add
+
+vec2.hpp
+file
+
+
+
+add
+
+vec3.hpp
+file
+
+
+
+add
+
+ext.hpp
+file
+
+
+
+add
+
+copying.txt
+file
+
+
+
+add
+
+vec4.hpp
+file
+
+
+
+add
+
+matrix.hpp
+file
+
+
+
+add
+
+virtrev
+dir
+
+
+
+add
+
+vector_relational.hpp
+file
+
+
+
+add
+
+packing.hpp
+file
+
+
+
+add
+
+gtx
+dir
+
+
+
+add
+
+detail
+dir
+
+
+
+add
+
+mat2x2.hpp
+file
+
+
+
+add
+
+mat3x2.hpp
+file
+
+
+
+add
+
+mat2x3.hpp
+file
+
+
+
+add
+
+geometric.hpp
+file
+
+
+
+add
+
+mat3x3.hpp
+file
+
+
+
+add
+
+mat2x4.hpp
+file
+
+
+
+add
+
+mat4x2.hpp
+file
+
+
+
+add
+
+glm.hpp
+file
+
+
+
+add
+
+fwd.hpp
+file
+
+
+
+add
+
+mat3x4.hpp
+file
+
+
+
+add
+
+mat4x3.hpp
+file
+
+
+
+add
+
+mat4x4.hpp
+file
+
+
+
+add
+
+readme.txt
+file
+
+
+
+add
+
+trigonometric.hpp
+file
+
+
+
+add
+
+exponential.hpp
+file
+
+
+
+add
+
+gtc
+dir
+
+
+
+add
+
+common.hpp
+file
+
+
+
+add
+
